@@ -1,0 +1,24 @@
+{
+  "name": "reactcardapi",
+  "version": "1.0.0",
+  "description": "a react project that calls an API for a deck of cards",
+  "main": "Card.js",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "react": "^17.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abelinho/ReactCardAPI.git"
+  },
+  "author": "Abel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abelinho/ReactCardAPI/issues"
+  },
+  "homepage": "https://github.com/Abelinho/ReactCardAPI#readme"
+}
