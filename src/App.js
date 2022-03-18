@@ -7,7 +7,7 @@ import './App.css';
 // import PersonList from './components2/Team';
 // import Kounter from './components2/kounter/Kounter';
 //import DocumentationApp from './components3/documcomponents/DocumentationApp';
-import Deck from './cardapi/Deck';
+import Deck from './Deck';
 //import ListEmployeeComponent from './reactspringbootfrontend/ListEmployeeComponent';
 function App() {
   return (
